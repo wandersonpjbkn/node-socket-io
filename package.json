@@ -1,0 +1,10 @@
+{
+  "name": "node-socket-io",
+  "version": "1.0.0",
+  "description": "linkedin course about socket.io with node.js and mongodb",
+  "main": "./09_02/server.js",
+  "repository": "https://github.com/wandersonpjbkn/node-socket-io",
+  "author": "Wanderson PJ <wandersonpj_bkn@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}
